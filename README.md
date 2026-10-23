@@ -122,6 +122,6 @@ You're a developer — we know how hard completing a project can be. So we offer
 - [**Skyscanner Scraper**](https://www.omkar.cloud/tools/skyscanner-scraper) — live flights, every agent's price, cheapest months & hotels
 - [**Booking Scraper**](https://www.omkar.cloud/tools/booking-scraper) — Booking.com hotels: prices, ratings, rooms & amenities
 - [**Website Email Contact Scraper**](https://www.omkar.cloud/tools/website-email-contact-scraper) — emails, phones & socials from any website
-- [**AliExpress Scraper**](https://www.omkar.cloud/tools/aliexpress-scraper) — live product details, SKU variants, stock & shipping
+- [**AliExpress Scraper**](https://www.omkar.cloud/tools/aliexpress-scraper-api) — live product details, SKU variants, stock & shipping
 
 👉 [Start with Free Plan](https://www.omkar.cloud/auth/sign-up?redirect=/tools/deezer-scraper/playground) — 1,000 free calls/month
